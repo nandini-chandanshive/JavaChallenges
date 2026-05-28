@@ -1,7 +1,7 @@
 import java.lang.*;
 
-public class Subscribe{
+class Greeting1 {
     public static void main(String[] args) {
-        System.out.println("Subscribe!");
+        System.out.println("Good Morning!");
     }
 }

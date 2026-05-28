@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sum6 {
+class Sum6 {
     public static void main(String[] args){
 
         System.out.println("----Welcome to our calculator!----");
