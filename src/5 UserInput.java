@@ -8,5 +8,6 @@ class UserInput5 {
         String name = input.nextLine();
         System.out.println("Welcome! " + name +" to Coding.");
 
+
     }
 }

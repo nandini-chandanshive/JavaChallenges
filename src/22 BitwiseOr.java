@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class BitwiseXOr {
+class BitwiseOr {
     public static void main(String[] args){
 
         Scanner input = new Scanner(System.in);
@@ -9,7 +9,7 @@ class BitwiseXOr {
         System.out.print("Enter the second number: ");
         int b = input.nextInt();
 
-        int c = a ^ b;
+        int c = a | b;
         System.out.println("Result is: " + c);
 
 
